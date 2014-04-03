@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="articles_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="articles_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/articles_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="29" selection-start="811" selection-end="811" vertical-scroll-proportion="0.599686" vertical-offset="315" max-vertical-offset="952">
+            <state line="41" column="29" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="952">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="3" selection-start="270" selection-end="270" vertical-scroll-proportion="0.32967034" vertical-offset="11" max-vertical-offset="986">
               <folding />
             </state>
           </provider>
@@ -51,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/README.rdoc" />
         <option value="$PROJECT_DIR$/db/migrate/20140403185356_create_articles.rb" />
         <option value="$PROJECT_DIR$/app/views/articles/index.html.erb" />
@@ -63,6 +71,7 @@
         <option value="$PROJECT_DIR$/app/controllers/articles_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/articles/show.html.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -411,13 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="30" selection-start="467" selection-end="467" vertical-scroll-proportion="0.5425532" vertical-offset="0" max-vertical-offset="969">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140403185356_create_articles.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="6" selection-start="140" selection-end="140" vertical-scroll-proportion="0.12917933" vertical-offset="0" max-vertical-offset="658">
@@ -481,9 +483,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../dev/sample_app/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="22" selection-start="1260" selection-end="1280" vertical-scroll-proportion="0.5196232" vertical-offset="502" max-vertical-offset="1139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/articles_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="29" selection-start="811" selection-end="811" vertical-scroll-proportion="0.599686" vertical-offset="315" max-vertical-offset="952">
+        <state line="41" column="29" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="3" selection-start="270" selection-end="270" vertical-scroll-proportion="0.32967034" vertical-offset="11" max-vertical-offset="986">
           <folding />
         </state>
       </provider>
