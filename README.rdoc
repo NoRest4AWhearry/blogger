@@ -1,3 +1,10 @@
 == BLOGGER 2
 
 This app is apart of the Jumpstart Blogger 2 Project
+
+Application was deployed to Heroku at http://jsblogger2.herokuapp.com/
+
+==LOGIN INFO
+
+Email: <tt>admin@example.com</tt>
+Password: <tt>password</tt>
